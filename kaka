@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>metalurgica tonhão</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1 style="text-align: center">Sobre a metalurgica tonhão</h1>
+
+        <p>Localizada no coração da cidade a <strong>metalurgica tonhão</strong> traz para o cliente o que há de melhor para o seu carro. 
+        Fundada em 1976, a metalurgica já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+        <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar confiança e segurança aos nossos clientes"</strong>.</em></p>
+
+        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo dos veiculos. 
+        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+    </body>
+</html>
